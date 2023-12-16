@@ -1,4 +1,4 @@
-# Spring Boot video-database CRUD project
+# Spring Boot video database CRUD project
 
 The goal of this project was to make a RESTful API that would allow user to perform basic CRUD operations on video database using Postman tool. 
 
